@@ -1,0 +1,1 @@
+<h2>Add a Category</h2><?php echo $this->Form->create('Categorie'); ?><?php echo $this->Form->input('nom',array('label'=>"Name : ")); ?><br><?php echo $this->Form->end('Save'); ?>
