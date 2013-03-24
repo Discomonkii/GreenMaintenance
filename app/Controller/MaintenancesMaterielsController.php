@@ -1,8 +1,5 @@
 <?php
 
-App::import('Controller', 'Materiels');
-App::import('Controller', 'Maintenances');
-
 // app/Controller/MaintenancesMaterielsController.php
 class MaintenancesMaterielsController extends AppController{
 
